@@ -1,0 +1,173 @@
+Browser tab: 2, Title: "Trouver une carte de transport Japon", URL: "https://chatgpt.com/s/cx_6add0a7721dc8191906afb7cb70cc6e4".
+1 AXWebArea Trouver une carte de transport Japon, URL: chatgpt.com/s/cx_6add0a7721dc8191906afb7cb70cc6e4
+	2 container
+		3 container
+			4 text ChatGPT
+			5 heading Trouver une carte de transport Japon, Value: 1
+				6 text Trouver une carte de transport Japon
+			7 button Report
+			8 button Continue in ChatGPT
+		9 container
+			10 text Yo. Pour mon voyage au Japon, on m'a proposé, enfin on m'a conseillé une Suica card pour les paiements, mais j'ai un Android, donc est-ce qu'il y a des alternatives ? J'ai l'impression que ça marche pas sur Android et que ça marche que sur iPhone. S'il y a des alternatives, est-ce qu'il y aurait des alternatives qui pourraient marcher pour la Corée également ?
+			11 button (collapsed) Worked for 24s, Secondary Actions: Expand
+				12 text Worked for 24s
+				13 image
+			14 container message-2
+				15 container
+					16 text Oui —  tu peux utiliser une Suica physique même si tu as un Android . La restriction concerne surtout la version dans le téléphone.
+				17 container
+					18 text Au Japon, les versions mobiles Suica/PASMO fonctionnent sur certains Android compatibles avec le système japonais, généralement des modèles vendus au Japon.  Avec un Android acheté au Canada ou en Europe, pars plutôt sur une carte physique.  PASMO confirme cette limitation sur son 
+					19 link Description: site officiel, Value: pasmo.co.jp/en/index.html
+					20 text .
+				21 text Voici les options qui ont du sens pour toi :
+				22 container
+					23 table
+						24 row
+							25 cell
+								26 text Option
+							27 cell
+								28 text Utilisation
+							29 cell
+								30 text Compatible avec ton Android ?
+						31 row
+							32 cell
+								33 text Suica / Welcome Suica physique
+							34 cell
+								35 text Transports et petits achats au Japon chez les commerçants participants
+							36 cell
+								37 text Oui, aucun téléphone nécessaire
+						38 row
+							39 cell
+								40 text PASMO physique
+							41 cell
+								42 text Usage très similaire à Suica au Japon
+							43 cell
+								44 text Oui, aucun téléphone nécessaire
+						45 row
+							46 cell
+								47 text Tmoney physique
+							48 cell
+								49 text Métros, bus et certains commerces en Corée du Sud
+							50 cell
+								51 text Oui, aucun téléphone nécessaire
+						52 row
+							53 cell
+								54 text WOWPASS
+							55 cell
+								56 text Carte prépayée pour les achats en Corée, avec fonction transport Tmoney
+							57 cell
+								58 text Appli Android disponible, mais tu utilises une carte physique
+					59 button Copy table
+					60 pop up button (collapsed) Description: Expand table, Secondary Actions: Expand
+				61 container
+					62 text La  Welcome Suica est valable 28 jours  après l’achat. Suica et PASMO sont acceptées sur de nombreux réseaux japonais grâce à leur interopérabilité, mais pas sur absolument toutes les lignes. 
+					63 link Description: JR East, Value: jreast.co.jp/en/multi/welcomesuica/welcomesuica.html
+					64 text , 
+					65 link Description: PASMO, Value: pasmo.co.jp/en/index.html
+				66 container
+					67 text Pour la Corée, il existe aussi une piste directement sur Android : l’appli “KOREA TOUR CARD Tmoney” , conçue pour les visiteurs et utilisant le NFC du téléphone. Sa compatibilité est à vérifier avec ton modèle ; la Tmoney physique reste le choix simple. 
+					68 link Description: Appli officielle, Value: play.google.com/store/apps/details?id=com.tmoney.mkoreatourcard&hl=en
+				69 container
+					70 text Mon conseil : une Suica/PASMO physique au Japon, puis une Tmoney physique en Corée.  Si tu veux aussi une carte prépayée pour tes achats en Corée, regarde WOWPASS. Les cartes de transport japonaises et coréennes sont distinctes : aucune de ces options ne remplace les deux. 
+					71 link Description: Office du tourisme coréen, Value: english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140663
+				72 text Tu as quel modèle d’Android, et tu l’as acheté dans quel pays ? Je pourrai te préciser les possibilités directement sur ton téléphone.
+			73 text J'ai un Android, c'est un Pixel 8 et je l'ai acheté au Canada. Et est-ce qu'avec Wise, par exemple, je peux payer partout au Canada, au Japon et en Corée ?
+			74 button (collapsed) Worked for 25s, Secondary Actions: Expand
+				75 text Worked for 25s
+				76 image
+			77 container message-4
+				78 text Oui, Wise peut te servir au Canada, au Japon et en Corée du Sud — mais pas partout, et ça ne remplace pas automatiquement une carte de transport.
+				79 container
+					80 text Pour ton  Pixel 8 acheté au Canada , c’est confirmé : il ne prend pas officiellement en charge Suica/PASMO sur le téléphone. Google réserve cette fonction aux versions japonaises de ce modèle. Tu peux toutefois utiliser Google Wallet pour les paiements bancaires classiques. 
+					81 link Description: Source Google, Value: support.google.com/pixelphone/answer/3470787?hl=en-GB
+				82 text Avec une carte Wise émise au Canada :
+				83 container
+					84 table
+						85 row
+							86 cell
+								87 text Pays
+							88 cell
+								89 text Carte Wise physique
+							90 cell
+								91 text Wise sur ton Pixel via Google Wallet
+						92 row
+							93 cell
+								94 text Canada
+							95 cell
+								96 text Oui, chez les commerçants acceptant son réseau Visa/Mastercard ; pas garanti si Interac seulement
+							97 cell
+								98 text Oui, lorsque le sans-contact bancaire est accepté
+						99 row
+							100 cell
+								101 text Japon
+							102 cell
+								103 text Oui, chez les commerçants acceptant les cartes internationales
+							104 cell
+								105 text Oui, si le terminal accepte le sans-contact Visa/Mastercard ; un lecteur Suica seul ne suffit pas
+						106 row
+							107 cell
+								108 text Corée du Sud
+							109 cell
+								110 text Oui, chez les commerçants acceptant les cartes internationales
+							111 cell
+								112 text Possible aux terminaux compatibles ; garde la carte physique avec toi
+					113 button Copy table
+					114 pop up button (collapsed) Description: Expand table, Secondary Actions: Expand
+				115 container
+					116 text Wise confirme que ses cartes canadiennes peuvent être ajoutées à Google Wallet et que l’acceptation dépend du réseau du commerçant. Certains sites internet acceptent uniquement les cartes locales. 
+					117 link Description: Compatibilité Google Wallet, Value: wise.com/help/articles/2977965/how-do-i-use-my-wise-card-with-google-pay
+					118 text , 
+					119 link Description: acceptation de Wise, Value: wise.com/help/articles/2935771/where-will-my-wise-card-work
+				120 container
+					121 text Pour le change,  tu peux alimenter Wise en dollars canadiens et laisser Wise convertir au moment du paiement , avec ses frais de conversion. Si le terminal te propose de payer en CAD ou en monnaie locale,  choisis JPY au Japon et KRW en Corée , pour laisser Wise effectuer le change. 
+					122 link Description: Conversion automatique, Value: wise.com/help/articles/2935778/what-if-i-spend-money-in-a-currency-i-dont-have-in-my-account
+					123 text , 
+					124 link Description: choix de la devise, Value: wise.com/help/articles/2977949/an-atm-asked-me-to-convert-currencies-when-using-my-wise-card
+				125 container
+					126 text Pour ton voyage, je prendrais donc  Wise physique + Wise dans Google Wallet pour les achats, une Suica/PASMO physique au Japon et une Tmoney en Corée pour les transports , avec un peu d’espèces et une deuxième carte en secours. Au Japon, notamment, certains commerces nécessitent encore du liquide. 
+					127 link Description: Office du tourisme japonais, Value: japan.travel/en/plan/cashless-payments-in-japan/
+			128 text Est-ce que la Timoni, c'est juste pour le transport ou est-ce que je peux payer aussi dans les petits commerces avec ?
+			129 button (collapsed) Worked for 13s, Secondary Actions: Expand
+				130 text Worked for 13s
+				131 image
+			132 container message-6
+				133 container
+					134 text Oui ! La  Tmoney  sert aussi à payer des achats, en plus des transports,  dans les commerces partenaires affichant le logo Tmoney  :
+				135 content list
+					136 container
+						137 AXListMarker • 
+						138 text Des supérettes comme  CU, GS25 et 7-Eleven .
+					139 container
+						140 AXListMarker • 
+						141 text Certains cafés, boulangeries et autres commerces affiliés.
+				142 container
+					143 text Tu peux donc acheter une boisson ou un snack avec le même solde que celui utilisé pour le métro. Par contre,  un petit commerce qui accepte les cartes bancaires n’accepte pas forcément Tmoney  : vérifie le logo ou demande à la caisse. 
+					144 link Description: Source : Office du tourisme coréen, Value: english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=142918
+				145 container
+					146 text Pour toi, le duo  Tmoney pour les transports et les petits achats compatibles + Wise pour les autres paiements  fonctionne bien, avec un peu de liquide en réserve.
+			147 text D'accord. Et la Timoni, je peux l'avoir, enfin en physique, il faut que j'aille la chercher là-bas, en Corée j'imagine. Et ensuite pour le Japon, il faudrait que j'aille acheter la Suica physique plus toujours la Wise en non physique.
+			148 container message-8
+				149 text Oui, c’est bien ça, avec une petite nuance pour Wise :
+				150 content list
+					151 container
+						152 AXListMarker • 
+						153 text En Corée :  tu peux acheter une  Tmoney physique sur place , notamment dans les supérettes CU, GS25 ou 7-Eleven, y compris à l’aéroport. 
+						154 link Description: Office du tourisme coréen, Value: english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140663
+					155 container
+						156 AXListMarker • 
+						157 text Au Japon :  tu achètes une  Suica physique ou une Welcome Suica  à l’arrivée si tu atterris à Tokyo. Une PASMO convient aussi.
+					158 container
+						159 AXListMarker • 
+						160 text Dans les deux pays :  tu gardes  Wise dans Google Wallet sur ton Pixel  pour les commerces qui acceptent le sans-contact bancaire.
+				161 container
+					162 text Je te conseille quand même de prendre la carte Wise physique aussi.  Certains commerces acceptent les cartes bancaires mais demandent de les insérer, et elle te permettra de retirer des espèces aux distributeurs compatibles. Avec uniquement Wise sur ton téléphone, tu serais plus limité. 
+					163 link Description: Wise, Value: wise.com/help/articles/2935771/where-will-my-wise-card-work
+				164 container
+					165 text Donc :  Tmoney physique + Suica physique + Wise sur ton téléphone et idéalement en physique , avec un peu de monnaie locale.
+		166 container User messages
+			167 button Jump to user message 1
+			168 button Jump to user message 2
+			169 button Jump to user message 3
+			170 button Jump to user message 4
+
+The focused UI element is 1 AXWebArea Trouver une carte de transport Japon, URL: chatgpt.com/s/cx_6add0a7721dc8191906afb7cb70cc6e4

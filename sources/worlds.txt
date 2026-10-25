@@ -1,0 +1,159 @@
+Browser tab: 2, Title: "Find Worlds watch parties", URL: "https://chatgpt.com/s/cx_6add0a67ada08191a7cdac172a83acce".
+1 AXWebArea Find Worlds watch parties, URL: chatgpt.com/s/cx_6add0a67ada08191a7cdac172a83acce
+	2 container
+		3 text ChatGPT
+		4 heading Find Worlds watch parties, Value: 1
+			5 text Find Worlds watch parties
+		6 button Report
+		7 button Continue in ChatGPT
+		8 container
+			9 text Est-ce que tu peux checker, vu que je serai en Corée et au Japon pour les Worlds de League of Legends, s'il y a des watch parties qui sont organisées en Corée, especially à Séoul, des endroits où les gens gather pour regarder les Worlds de League of Legends, parce que j'aimerais bien participer à ça, si c'est dans un bar ou dans un je ne sais quoi, pour aller mater les Worlds avec des gens, en Corée ou au Japon lors des matchs, sachant que je serai en Corée du 21 octobre au 8 novembre et en Japon du 8 novembre jusqu'à la fin des Worlds et plus. Merci.
+			10 button (collapsed) Worked for 1m 57s, Secondary Actions: Expand
+				11 text Worked for 1m 57s
+				12 image
+			13 container message-2
+				14 container
+					15 text Oui —  j’ai trouvé de bonnes pistes, surtout à Séoul, mais aucune watch party que je puisse te présenter comme confirmée pour tes dates des Worlds 2026 au 15 octobre.  Les recherches en anglais, coréen et japonais renvoient surtout à des organisateurs actifs et à leurs événements précédents.
+				16 text À Séoul, je privilégierais ces deux options :
+				17 container
+					18 container Scrollable table
+						19 table
+							20 row
+								21 cell
+									22 text Piste
+								23 cell
+									24 text Ce que j’ai pu vérifier
+								25 cell
+									26 text Ce que ça signifie pour toi
+							27 row
+								28 cell
+									29 text LoLMeetupKorea / LoLMK
+								30 cell
+									31 text Communauté anglophone qui a organisé la finale des Worlds 2025 au 
+									32 text Reverse Bar à Hongdae
+									33 text . En juin 2026, les organisateurs annonçaient aussi un partenariat avec 
+									34 text Gen.G Xperience (GGX)
+									35 text  pour leurs watch parties.
+								36 cell
+									37 text Le meilleur premier contact pour rencontrer du monde
+									38 text , notamment des locaux et des voyageurs anglophones. Le lieu dépend de l’événement : ne pars pas directement au Reverse sans nouvelle annonce.
+							39 row
+								40 cell
+									41 text T1 Base Camp, Hongdae
+								42 cell
+									43 text Des visiteurs du MSI 2026 rapportent avoir regardé les matchs avec d’autres fans sur place. C’est un PC bang consacré à T1, avec une ambiance de supporters.
+								44 cell
+									45 text Une bonne piste, particulièrement pour les matchs de T1, mais l’accès à une retransmission collective et les horaires restent à confirmer.
+					46 button Copy table
+					47 pop up button (collapsed) Description: Expand table, Secondary Actions: Expand
+				48 container
+					49 text Pour LoLMK, voici leur 
+					50 link Description: Instagram, Value: instagram.com/lolmeetupkorea/
+					51 text , leur 
+					52 link Description: Discord, Value: discord.gg/LoLMK
+					53 text  et leur 
+					54 link Description: page Meetup, Value: meetup.com/lolinkorea/
+					55 text . Les éléments sur leurs événements viennent de leur 
+					56 link Description: annonce des Worlds 2025, Value: reddit.com/r/lck/comments/1oly7ch/
+					57 text  et de leur 
+					58 link Description: message concernant GGX en juin 2026, Value: reddit.com/r/lck/comments/1u77se8/msi_finals_watch_parties_in_seoul/
+					59 text .
+				60 container
+					61 text Pour T1, surveille 
+					62 link Description: T1 Base Camp Hongdae sur Instagram, Value: instagram.com/t1basecamp_hongdae/
+					63 text . Les retours sur les retransmissions sont des 
+					64 link Description: témoignages de visiteurs du MSI 2026, Value: reddit.com/r/SKTT1/comments/1uh0ov3/im_solo_travelling_in_korea_during_msi_where_are/
+					65 text ,  pas une annonce pour les Worlds .
+				66 text Au Japon, les pistes les plus concrètes trouvées sont à Tokyo :
+				67 content list
+					68 container
+						69 AXListMarker • 
+						70 text Hobgoblin Roppongi — pour l’ambiance pub.  Une watch party communautaire y a été organisée pour la finale des Worlds  2025 , avec des retours de participants. Cela correspond très bien à ce que tu recherches, mais je n’ai trouvé aucune reconduction annoncée pour 2026. Voici 
+						71 link Description: l’événement précédent, Value: reddit.com/r/Tokyo/comments/1okp2n7/unofficial_watch_party_for_league_of_legend/
+						72 text  et le 
+						73 link Description: site du pub, Value: hobgoblin.jp/hobgoblin-roppongi
+						74 text .
+					75 container
+						76 AXListMarker • 
+						77 text eスポフィールド / eSPO FIELD, à Tokyo-Itabashi — pour un événement esports.  Le lieu confirme avoir accueilli la  watch party officielle de la finale du MSI 2026 , organisée par LoL Esports Japan le 12 juillet. C’est donc une piste récente et vérifiable, même si rien n’est confirmé pour les Worlds. À suivre sur leur 
+						78 link Description: page d’annonces, Value: espofield.com/news/
+						79 text  et chez 
+						80 link Description: LoL Esports Japan, Value: x.com/lolesports_jp
+						81 text .
+				82 container
+					83 text Pour ton voyage, attention aux dates et aux heures locales.  Corée et Japon ont la même heure ; voici les créneaux publiés par Riot, avec le décalage de date déjà appliqué :
+				84 container
+					85 table
+						86 row
+							87 cell
+								88 text Phase
+							89 cell
+								90 text Date et heure en Corée/Japon
+							91 cell
+								92 text Où tu seras
+						93 row
+							94 cell
+								95 text Phase suisse
+							96 cell
+								97 text 24–27 octobre à 
+								98 text 2 h
+								99 text , 29–31 octobre à 
+								100 text 5 h
+								101 text , puis 1er novembre à 
+								102 text 2 h
+							103 cell
+								104 text Corée
+						105 row
+							106 cell
+								107 text Quarts de finale
+							108 cell
+								109 text 4–7 novembre à 
+								110 text 7 h
+							111 cell
+								112 text Corée
+						113 row
+							114 cell
+								115 text Demi-finales
+							116 cell
+								117 text 8 et 9 novembre à 
+								118 text 7 h
+							119 cell
+								120 text Jour de transfert, puis Japon
+						121 row
+							122 cell
+								123 text Finale
+							124 cell
+								125 text Dimanche 15 novembre à 4 h du matin
+							126 cell
+								127 text Japon
+					128 button Copy table
+					129 pop up button (collapsed) Description: Expand table, Secondary Actions: Expand
+				130 container
+					131 text Source : 
+					132 link Description: guide officiel des Worlds 2026, Value: lolesports.com/en-GB/news/worlds-2026-primer
+					133 text . Pour la finale, il faut donc prévoir  la nuit du samedi 14 au dimanche 15 novembre . Une ouverture habituelle de bar ne suffit pas : il faudra une retransmission et une ouverture spécialement confirmées.
+				134 container
+					135 text Mon choix pour toi : contacter LoLMK en priorité pour Séoul , en précisant que tu cherches aussi les matchs de la phase suisse et les quarts, puisque tu quittes la Corée avant la finale. Au Japon, Hobgoblin est la piste la plus proche de ton idée « boire un verre et regarder avec des gens », tandis qu’eSPO FIELD est à surveiller pour une éventuelle annonce officielle.
+				136 container
+					137 text Tu seras dans quelles villes au Japon, notamment les 9 et 15 novembre ?  Ça permettra de cibler les lieux utiles à ton itinéraire.
+		138 container
+			139 text Je serai à Tokyo. Durant ces dates-là, je serai à Tokyo.
+			140 container message-4
+				141 container
+					142 text Parfait,  Tokyo pour les demi-finales et la finale . Les deux pistes à privilégier sont donc :
+				143 content list
+					144 container
+						145 AXListMarker • 
+						146 link Description: Hobgoblin Roppongi, Value: hobgoblin.jp/hobgoblin-roppongi
+						147 text  pour l’ambiance pub et les rencontres entre fans : une watch party y avait eu lieu pour les Worlds 2025.
+					148 container
+						149 AXListMarker • 
+						150 link Description: eSPO FIELD, Value: espofield.com/news/
+						151 text  pour un événement esports organisé : ils ont accueilli la watch party officielle du MSI 2026.
+				152 container
+					153 text Aucune annonce Worlds 2026 confirmée dans mes recherches pour ces deux lieux.  Avant de réserver, il faudra vérifier la retransmission, l’ouverture spéciale et les conditions d’entrée.
+				154 container
+					155 text Garde surtout libre  la nuit du 14 au 15 novembre : la finale commence à 4 h du matin à Tokyo . La demi-finale du  9 novembre à 7 h  sera aussi un créneau possible ; celle du 8 dépendra de ton heure d’arrivée. 
+					156 link Description: Calendrier officiel Riot, Value: lolesports.com/en-GB/news/worlds-2026-primer
+
+The focused UI element is 1 AXWebArea Find Worlds watch parties, URL: chatgpt.com/s/cx_6add0a67ada08191a7cdac172a83acce

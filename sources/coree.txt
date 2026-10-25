@@ -1,0 +1,827 @@
+Browser tab: 2, Title: "Planifier un séjour en Corée", URL: "https://chatgpt.com/s/cx_6add0a4c19ac8191a15d8101eaf66946".
+1 AXWebArea Planifier un séjour en Corée, URL: chatgpt.com/s/cx_6add0a4c19ac8191a15d8101eaf66946
+	2 container
+		3 container
+			4 text ChatGPT
+			5 heading Planifier un séjour en Corée, Value: 1
+				6 text Planifier un séjour en Corée
+			7 button Report
+			8 button Continue in ChatGPT
+		9 container
+			10 text Alors, reste. faire un projet pour la Corée. Et je pars dans une semaine, le 21 octobre 2026. J'ai plusieurs questions suivant les itinéraires, suivant tout ça. Il faudrait que... en fait... deux secondes, je suis en train de noter. Ouais. Pour la Corée, j'ai envie de rester jusqu'au... donc du 21 au 8 novembre. J'ai envie de commencer à Séoul pour quelques jours, voir ce qu'il y a de plus sympathique à voir en termes historiques, en termes aussi de League of Legends, et en termes ensuite de sorties. Et ensuite, j'ai envie de partir probablement vers Busan pour quelques jours. Quel serait le moyen de transport le plus simple ? Est-ce que c'est des trains ? Est-ce que c'est des bus ? Est-ce que c'est louer une voiture, mais je ne pense pas louer une voiture en Corée. Et ensuite, j'aimerais revenir à Séoul avant le 4 novembre, jusqu'au 8 novembre, pour passer quelques jours encore là-bas. Quels seraient les moyens de... comment dire, les accommodations, là où je pourrais dormir, les moins chers, mais où j'aurai quand même une chambre à moi. En fait, donne-moi des différentes options d'accommodation, entre genre le vraiment moins cher et quelque chose où j'aurai une chambre à moi tout seul, mais aussi pas très chère. Voilà. Merci.
+			11 button (collapsed) Worked for 1m 45s, Secondary Actions: Expand
+				12 text Worked for 1m 45s
+				13 image
+			14 container message-2
+				15 container
+					16 text Je te conseillerais Séoul → Busan → Séoul, en train, avec une chambre privée en guesthouse pour maîtriser le budget.  Tu peux très bien faire ce séjour sans voiture.
+				17 container
+					18 text Je pars sur une  arrivée en Corée le 21 octobre et un départ le 8 novembre 2026 : 18 nuits . Si le 21 est la date de décollage et que tu arrives le 22, il faudra simplement retirer la première nuit.
+				19 text L’itinéraire que je te propose
+				20 container
+					21 table
+						22 row
+							23 cell
+								24 text Dates
+							25 cell
+								26 text Étape
+							27 cell
+								28 text Pourquoi
+						29 row
+							30 cell
+								31 text 21–28 octobre · 7 nuits
+							32 cell
+								33 text Séoul
+							34 cell
+								35 text Te remettre du voyage, visiter les sites historiques, découvrir LoL Park et sortir
+						36 row
+							37 cell
+								38 text 28 octobre–2 novembre · 5 nuits
+							39 cell
+								40 text Busan
+							41 cell
+								42 text Profiter de la côte, des marchés et des quartiers différents de Séoul
+						43 row
+							44 cell
+								45 text 2–8 novembre · 6 nuits
+							46 cell
+								47 text Séoul
+							48 cell
+								49 text Revenir largement avant le 4, garder du temps pour les découvertes et les sorties
+					50 button Copy table
+					51 pop up button (collapsed) Description: Expand table, Secondary Actions: Expand
+				52 text Cinq nuits à Busan permettent de prendre ton temps. Si tu préfères privilégier Séoul, réduis cette étape à quatre nuits.
+				53 text À Séoul : histoire, LoL et sorties
+				54 text Pour l’histoire, je répartirais les visites sur plusieurs journées :
+				55 content list
+					56 container
+						57 AXListMarker • 
+						58 text Gyeongbokgung et le quartier de Gwanghwamun  : une bonne entrée dans l’histoire de la dynastie Joseon. Le palais est normalement fermé le mardi.
+					59 container
+						60 AXListMarker • 
+						61 text Changdeokgung , puis Insadong : je privilégierais ce deuxième palais si tu apprécies l’architecture et les jardins. Son intégration au paysage lui vaut son classement UNESCO.
+					62 container
+						63 AXListMarker • 
+						64 text Une journée plus souple pour un musée et des promenades, plutôt que d’enchaîner tous les palais. 
+						65 link Description: Informations officielles sur Gyeongbokgung, Value: english.visitseoul.net/attractions/Changgyeonggung-Palace/ENP000072
+						66 text , 
+						67 link Description: présentation des palais de Séoul, Value: english.seoul.go.kr/telling-stories-revealing-culture-preserved-within-palaces-heart-seoul/
+						68 text .
+				69 container
+					70 text Pour  League of Legends ,  LoL Park, près de Jonggak , est la visite évidente : boutique Riot, espaces consacrés à la LCK et PC café. C’est facile à combiner avec une journée dans le centre historique. Les horaires et l’accès dépendent des activités sur place. 
+					71 link Description: LoL Park — office du tourisme de Séoul, Value: english.visitseoul.net/other/LoL-Park/ENPm73wet
+					72 text .
+				73 container
+					74 text Attention au calendrier : les Worlds 2026 se déroulent aux États-Unis du 15 octobre au 14 novembre.  Ton séjour tombe donc pendant les Worlds, mais tu ne pourras pas assister à ces matchs en Corée. Je ne construirais pas l’itinéraire autour d’un match LCK à Séoul sans événement confirmé ; une retransmission collective éventuelle serait à vérifier séparément. 
+					75 link Description: Calendrier officiel Riot, Value: lolesports.com/en-US/news/msi-and-worlds-updates
+					76 text .
+				77 text Pour les soirées, je choisirais :
+				78 content list
+					79 container
+						80 AXListMarker • 
+						81 text Hongdae  pour les bars, les clubs et une ambiance animée.
+					82 container
+						83 AXListMarker • 
+						84 text Euljiro  pour manger, boire une bière et explorer les petites rues du centre.
+				85 container
+					86 text Hongdae figure parmi les principaux secteurs de sorties du guide officiel ; Euljiro offre notamment ses rues de brasseries coréennes. 
+					87 link Description: Guide de Séoul, Value: english.seoul.go.kr/wp-content/uploads/2026/03/2026_guidebook_EN.pdf
+					88 text , 
+					89 link Description: sortir à Euljiro, Value: english.visitseoul.net/City-Hall-Area/Eat-Drink-and-Rest-like-Seoulites-in-Euljiro_/31301
+					90 text .
+				91 text Séoul–Busan : prends le KTX
+				92 text Voici les ordres de grandeur pour un aller simple, à confirmer sur le départ choisi :
+				93 container
+					94 table
+						95 row
+							96 cell
+								97 text Transport
+							98 cell
+								99 text Durée approximative
+							100 cell
+								101 text Budget indicatif
+							102 cell
+								103 text Mon avis
+						104 row
+							105 cell
+								106 text KTX, train rapide
+							107 cell
+								108 text 2 h 30 à 3 h
+							109 cell
+								110 text Environ 
+								111 text 60 000 ₩
+								112 text  en classe standard
+							113 cell
+								114 text Le plus simple et mon choix pour toi
+						115 row
+							116 cell
+								117 text Bus express
+							118 cell
+								119 text 4 à 5 h, davantage avec le trafic
+							120 cell
+								121 text Environ 
+								122 text 30 000–45 000 ₩
+								123 text , selon la catégorie
+							124 cell
+								125 text Intéressant si chaque économie compte
+						126 row
+							127 cell
+								128 text Voiture
+							129 cell
+								130 text Variable, plus stationnement
+							131 cell
+								132 text Location + carburant + péages
+							133 cell
+								134 text Peu utile pour cet itinéraire
+					135 button Copy table
+					136 pop up button (collapsed) Description: Expand table, Secondary Actions: Expand
+				137 container
+					138 text Le KTX relie  Seoul Station à Busan Station . Prévois environ  120 000 ₩ aller-retour , et réserve directement auprès de 
+					139 link Description: Korail, Value: smart.letskorail.com/ebizbf/EbizBfTicketSearchM.do?hidJobDv=NRM
+					140 text . Les durées et tarifs ci-dessus sont des repères, pas des billets vérifiés pour tes dates. 
+					141 link Description: Comparatif des transports, Value: koreankorea.com/seoul-to-busan-ktx-2026/
+					142 text .
+				143 container
+					144 text À Busan, je prévoirais une journée autour de Gamcheon et Nampo, une autre sur la côte, puis du temps pour Gwangalli et les cafés. Le  temple Haedong Yonggungsa, face à la mer , mérite aussi une sortie ; il est accessible en transports et son entrée est gratuite. 
+					145 link Description: Informations officielles de Busan, Value: visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000201001001000&uc_seq=261
+					146 text .
+				147 text Où dormir, du moins cher au plus confortable
+				148 container
+					149 text Les montants suivants sont des  fourchettes de planification par nuit , surtout pour Séoul : je n’ai pas vérifié de chambres disponibles pour chaque nuit de ton séjour. Les prix peuvent monter le vendredi et le samedi.
+				150 container
+					151 table
+						152 row
+							153 cell
+								154 text Type de logement
+							155 cell
+								156 text Budget à prévoir
+							157 cell
+								158 text Chambre à toi ?
+							159 cell
+								160 text Compromis
+						161 row
+							162 cell
+								163 text Lit en dortoir
+							164 cell
+								165 text 25 000–45 000 ₩
+							166 cell
+								167 text Non
+							168 cell
+								169 text Économique, mais sommeil et intimité variables
+						170 row
+							171 cell
+								172 text Microchambre / goshiwon acceptant les courts séjours
+							173 cell
+								174 text 30 000–55 000 ₩
+							175 cell
+								176 text Oui
+							177 cell
+								178 text Très petite ; sanitaires parfois partagés, fenêtre à vérifier
+						179 row
+							180 cell
+								181 text Chambre privée en guesthouse, sanitaires partagés
+							182 cell
+								183 text 45 000–75 000 ₩
+							184 cell
+								185 text Oui
+							186 cell
+								187 text Le meilleur compromis si partager la salle de bain te convient
+						188 row
+							189 cell
+								190 text Guesthouse avec salle de bain privée
+							191 cell
+								192 text 60 000–100 000 ₩
+							193 cell
+								194 text Oui
+							195 cell
+								196 text Plus confortable pour un séjour de cette durée
+						197 row
+							198 cell
+								199 text Petit hôtel ou motel
+							200 cell
+								201 text 65 000–120 000 ₩
+							202 cell
+								203 text Oui, généralement avec salle de bain
+							204 cell
+								205 text Qualité variable ; lire les avis récents
+					206 button Copy table
+					207 pop up button (collapsed) Description: Expand table, Secondary Actions: Expand
+				208 container
+					209 text Ces catégories permettent de distinguer le prix minimum de l’intimité que tu recherches. Les plateformes proposent bien des chambres privées en auberge, mais leurs prix d’appel ne garantissent pas un tarif pour une personne à tes dates. 
+					210 link Description: Chambres privées à Séoul sur Hostelworld, Value: hostelworld.com/hostels/asia/south-korea/seoul/f/private-rooms/p/2/
+					211 text .
+				212 container
+					213 text Pour toi, je viserais 50 000 à 80 000 ₩ par nuit en moyenne.  Sur 18 nuits, cela représente  900 000 à 1 440 000 ₩ pour le logement , ou environ  1 020 000 à 1 560 000 ₩ avec les deux KTX , hors nourriture, visites et transports locaux. C’est une cible budgétaire, pas un devis.
+				214 text Je choisirais les quartiers ainsi :
+				215 content list
+					216 container
+						217 AXListMarker • 
+						218 text Premier séjour à Séoul : Jongno / Jonggak / Insadong , pour l’histoire et LoL Park.
+					219 container
+						220 AXListMarker • 
+						221 text Busan : Seomyeon , comme base pratique ; Gwangalli si dormir près de la mer est prioritaire.
+					222 container
+						223 AXListMarker • 
+						224 text Deuxième séjour à Séoul : Hongdae , pour profiter davantage des soirées, avec une chambre dans une rue à l’écart des bars.
+				225 container
+					226 text Pour comparer avec les guesthouses, tu peux aussi regarder les  Toyoko Inn Seoul Dongdaemun No.2 et Busan Seomyeon , présents dans le catalogue officiel. Ce sont des pistes à comparer, sans disponibilité ni tarif confirmé ici. 
+					227 link Description: Site officiel Toyoko Inn Corée, Value: toyoko-inn.co.kr/korea/view/index.do?SS_SVC_LANG_CODE=ENG
+					228 text .
+				229 container
+					230 text Au moment de choisir, vérifie surtout  « chambre privée » , le type de salle de bain, la présence d’une fenêtre et le  prix total du séjour . Pour les motels, assure-toi que l’offre correspond à une nuit complète.
+				231 text Quel est ton plafond par nuit, et dans quelle devise ? Et est-ce qu’une salle de bain partagée te convient si tu gardes une chambre à toi ?
+			232 text OK, merci pour ces infos. Donc, avec plus de détails, j'aimerais aussi rajouter, lorsque je quitte Séoul la première fois, aller à Gyeongju. Je sais pas si je le prononce bien, l'ancienne capitale historique de la Corée. J'aimerais passer quelques jours là-bas, peut-être un ou deux jours, en plus de Busan. Et je pense que j'aimerais dormir dans des goshiwon. Et si tu peux me faire une liste des goshiwon les mieux placés et les moins chers à Séoul et dans les autres endroits où je vais, ce serait bien. Ah oui, et aussi autre chose. J'aimerais peut-être que sur la route, entre toutes ces étapes, s'il y a des randonnées absolument incontournables à faire en Corée, qui soient accessibles par moyens de transport publics, bus ou train, lesquels je pourrais faire. Et même s'il y en a des pas très loin de Séoul à faire en une journée aller-retour, je suis down aussi. Merci.
+			233 button (collapsed) Worked for 2m 34s, Secondary Actions: Expand
+				234 text Worked for 2m 34s
+				235 image
+			236 container message-4
+				237 container
+					238 text Oui, Gyeongju s’intègre très bien entre Séoul et Busan.  C’était la capitale du royaume de  Silla  — et, avec ton intérêt pour l’histoire et la randonnée, je lui donnerais  deux nuits au minimum , voire trois pour éviter de courir. 
+					239 link Description: Présentation officielle de Gyeongju, Value: english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=73618
+					240 text .
+				241 container
+					242 text Pour les goshiwon, j’ai trouvé plusieurs pistes concrètes.  Le point décisif est la durée minimum : un prix mensuel bas ne veut pas dire qu’on peut réserver quatre nuits au prorata.  Les tarifs ci-dessous sont affichés publiquement, mais les disponibilités pour tes dates ne sont pas confirmées.
+				243 text Ton itinéraire mis à jour
+				244 text En gardant l’hypothèse d’une arrivée le 21 octobre :
+				245 container
+					246 table
+						247 row
+							248 cell
+								249 text Dates
+							250 cell
+								251 text Où dormir
+							252 cell
+								253 text Programme proposé
+						254 row
+							255 cell
+								256 text 21–28 octobre · 7 nuits
+							257 cell
+								258 text Séoul
+							259 cell
+								260 text Histoire, LoL Park, sorties et une journée à Bukhansan
+						261 row
+							262 cell
+								263 text 28–30 octobre · 2 nuits
+							264 cell
+								265 text Gyeongju
+							266 cell
+								267 text Centre historique et randonnée à Namsan
+						268 row
+							269 cell
+								270 text 30 octobre–3 novembre · 4 nuits
+							271 cell
+								272 text Busan
+							273 cell
+								274 text Côte, marchés, quartiers et marche à Igidae
+						275 row
+							276 cell
+								277 text 3–8 novembre · 5 nuits
+							278 cell
+								279 text Séoul
+							280 cell
+								281 text Retour avant le 4, sorties et randonnée courte à Inwangsan
+					282 button Copy table
+					283 pop up button (collapsed) Description: Expand table, Secondary Actions: Expand
+				284 text À Gyeongju, je répartirais ainsi :
+				285 content list
+					286 container
+						287 AXListMarker • 
+						288 text 28 octobre :  arrivée, tombes royales de Daereungwon, puis Donggung et l’étang Wolji à la tombée du jour.
+					289 container
+						290 AXListMarker • 
+						291 text 29 octobre :  randonnée de Namsan, avec ses vestiges bouddhiques.
+					292 container
+						293 AXListMarker • 
+						294 text 30 octobre :  Bulguksa si tu pars pour Busan dans l’après-midi.
+				295 container
+					296 text Cela reste assez rempli.  Pour ajouter le musée national ou Seokguram tranquillement, reste jusqu’au 31 octobre , puis fais trois nuits à Busan. 
+					297 link Description: Sites historiques de Gyeongju, Value: english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=534028
+					298 text .
+				299 text Les déplacements sans voiture
+				300 container
+					301 table
+						302 row
+							303 cell
+								304 text Trajet
+							305 cell
+								306 text Ce que je choisirais
+							307 cell
+								308 text Temps à prévoir
+						309 row
+							310 cell
+								311 text Séoul → Gyeongju
+							312 cell
+								313 text KTX vers Gyeongju Station
+								314 text , anciennement Singyeongju
+							315 cell
+								316 text Environ 2 h à 2 h 30 de train, puis transfert vers le centre
+						317 row
+							318 cell
+								319 text Gyeongju → Busan
+							320 cell
+								321 text Bus depuis le terminal interurbain du centre vers Busan Nopo
+							322 cell
+								323 text Environ 50–55 min, puis métro jusqu’au logement
+						324 row
+							325 cell
+								326 text Busan → Séoul
+							327 cell
+								328 text KTX
+							329 cell
+								330 text Environ 2 h 30 à 3 h selon le train
+					331 button Copy table
+					332 pop up button (collapsed) Description: Expand table, Secondary Actions: Expand
+				333 container
+					334 text La gare KTX de Gyeongju est  à l’extérieur du centre historique  : choisis ton logement près du centre ou du terminal de bus, plutôt que près de cette gare. Pour rejoindre Busan, le bus évite de retourner à la gare éloignée ; Nopo est toutefois au nord de Busan, donc compte encore environ 40 minutes de métro vers Seomyeon. 
+					335 link Description: Accès à Gyeongju, Value: gyeongju.go.kr/open_content/english/page.do?mnu_uid=2577
+					336 text , 
+					337 link Description: liaison Gyeongju–Nopo, Value: rome2rio.com/Bus/Gyeongju/Nopo-Station
+					338 text .
+				339 text Les goshiwon à regarder en priorité
+				340 container
+					341 text Voici une sélection selon  l’emplacement et les prix publiés , plutôt qu’un classement de qualité que je ne peux pas garantir.
+				342 container
+					343 table
+						344 row
+							345 cell
+								346 text Logement
+							347 cell
+								348 text Emplacement et intérêt
+							349 cell
+								350 text Tarif publié
+							351 cell
+								352 text Adaptation à ton séjour
+						353 row
+							354 cell
+								355 link Description: Joongang Residence, Value: staykorea.org/property/joongang-residence-goshiwon-jongno/
+							356 cell
+								357 text Jongno, 90-1 Supyo-ro : bon secteur pour l’histoire et LoL Park
+							358 cell
+								359 text 22 000 ₩/nuit
+								360 text , sans caution annoncée
+							361 cell
+								362 text Ma première piste à Séoul.
+								363 text  Mini-chambre privée, sanitaires partagés ; prix pouvant varier selon la fenêtre
+						364 row
+							365 cell
+								366 link Description: Standard Goshiwon Jongno, Value: standardgosiwon.com/
+							367 cell
+								368 text À environ 3 min de Jongno 3-ga : emplacement très pratique
+							369 cell
+								370 text Site actuel : 
+								371 text dès 350 000 ₩/mois
+							372 cell
+								373 text À demander pour tes deux séjours : une page anglaise indexée annonçait des semaines à 70 $, mais le site actuel met en avant le mois
+						374 row
+							375 cell
+								376 link Description: Star Goshiwon, Value: goshiwonseoul.com/
+							377 cell
+								378 text Séoul ; annonce 40–50 min de transports vers plusieurs quartiers touristiques
+							379 cell
+								380 text 105 $ US/semaine
+								381 text , environ 155 000 ₩ selon le site ; caution et literie en supplément
+							382 cell
+								383 text Hommes uniquement, minimum 7 nuits.
+								384 text  Possible pour le premier séjour ; moins intéressant pour les cinq dernières nuits
+						385 row
+							386 cell
+								387 link Description: BIGstay Seomyeon, Value: stay.enko.kr/house/4fc8dde2-5b2a-4066-a681-a590da76e88f
+							388 cell
+								389 text Busan, à environ 5 min de Seomyeon selon l’annonce
+							390 cell
+								391 text 407 000 ₩/mois
+							392 cell
+								393 text Chambre privée, sanitaires partagés. 
+								394 text Prix et acceptation de quatre nuits à demander
+						395 row
+							396 cell
+								397 link Description: Luna Stay Gwangan, Value: goshiwons.com/en/accommodation/230
+							398 cell
+								399 text Busan, près de 
+								400 text Suyeong
+								401 text , pratique pour le métro et le secteur de Gwangalli
+							402 cell
+								403 text Tarif sur demande
+							404 cell
+								405 text Salle de bain privée annoncée, mais 
+								406 text minimum une semaine
+								407 text  : peu adapté à quatre nuits sauf offre particulière
+					408 button Copy table
+					409 pop up button (collapsed) Description: Expand table, Secondary Actions: Expand
+				410 container
+					411 text Pour  Standard Jongno , les annonces ne concordent pas sur la durée minimum ; une fiche indique aussi une admission limitée aux personnes dans la vingtaine et la trentaine. Il faut donc confirmer ces conditions avant de compter dessus. 
+					412 link Description: Fiche détaillée, Value: goshiwons.com/en/accommodation/137
+					413 text .
+				414 container
+					415 text À Gyeongju, je n’ai pas trouvé de goshiwon avec une offre suffisamment claire pour une ou deux nuits.  Je te proposerais plutôt 
+					416 link Description: Han Jin Hostel, Value: hostelworld.com/hostels/asia/south-korea/gyeong-ju/d/gyeongju-si/
+					417 text  : près du terminal de bus, avec des chambres privées. Une annonce de l’hôte mentionne  25 000 ₩ par jour pour une chambre individuelle , mais son titre et sa description se contredisent sur la salle de bain : tarif et sanitaires doivent être confirmés. 
+					418 link Description: Annonce de la chambre, Value: airbnb.com/rooms/24788517
+					419 text .
+				420 container
+					421 text Mon choix pratique : Joongang à Séoul, Han Jin à Gyeongju, puis comparaison entre BIGstay et une chambre privée en auberge à Busan.  Je ne paierais pas automatiquement une semaine de goshiwon pour n’y passer que quatre nuits.
+				422 container
+					423 text À titre de repère,  12 nuits à Séoul à 22 000 ₩ feraient 264 000 ₩ , sous réserve que ce tarif s’applique à toutes tes dates. C’est nettement inférieur à ma première estimation générale de logement.
+				424 container
+					425 text Avant de réserver, fais confirmer en une fois :  prix total pour les dates exactes, fenêtre donnant dehors, sanitaires, literie, caution et possibilité de rentrer tard . Ce dernier point compte pour tes soirées.
+				426 text Les quatre randonnées que je privilégierais
+				427 text Les durées ci-dessous sont des estimations de marche avec quelques pauses, hors transports.
+				428 container
+					429 table
+						430 row
+							431 cell
+								432 text Randonnée
+							433 cell
+								434 text Pourquoi la choisir
+							435 cell
+								436 text Effort et durée
+							437 cell
+								438 text Accès sans voiture
+						439 row
+							440 cell
+								441 text Bukhansan – Baegundae, Séoul
+							442 cell
+								443 text Le grand panorama montagneux du séjour
+							444 cell
+								445 text Soutenu
+								446 text , environ 
+								447 text 5–7 h depuis Bukhansan Ui aller-retour
+								448 text , approche comprise
+							449 cell
+								450 text Métro 
+								451 text Bukhansan Ui
+								452 text , puis marche vers le départ
+						453 row
+							454 cell
+								455 text Inwangsan, Séoul
+							456 cell
+								457 text Remparts et vues sur le centre historique
+							458 cell
+								459 text Modéré
+								460 text , environ 
+								461 text 2–3 h
+							462 cell
+								463 text Métro 
+								464 text Dongnimmun ou Gyeongbokgung
+								465 text , selon le parcours
+						466 row
+							467 cell
+								468 text Namsan – secteur Samneung / Geumobong, Gyeongju
+							469 cell
+								470 text Le meilleur mélange histoire et randonnée pour toi
+								471 text  : bouddhas sculptés, vestiges et forêt
+							472 cell
+								473 text Modéré
+								474 text , environ 
+								475 text 3–4 h
+								476 text , davantage avec les visites
+							477 cell
+								478 text Bus vers 
+								479 text Samneung
+								480 text , notamment ligne 500, à revérifier le jour même
+						481 row
+							482 cell
+								483 text Igidae – Dongsaengmal → Oryukdo, Busan
+							484 cell
+								485 text Falaises, mer et vues sur la ville
+							486 cell
+								487 text Facile à modéré
+								488 text , escaliers et dénivelés ; 
+								489 text 2–3 h
+								490 text , environ 4 km
+							491 cell
+								492 text Métro ligne 2, puis bus vers l’entrée d’Igidae ; retour en bus depuis Oryukdo
+					493 button Copy table
+					494 pop up button (collapsed) Description: Expand table, Secondary Actions: Expand
+				495 container
+					496 text Bukhansan  mérite une journée entière : la fin vers Baegundae comporte des passages raides sur le rocher, avec mains courantes. Je la choisirais par temps sec, en partant tôt, et en semaine si possible. Le centre de randonnée près de Bukhansan Ui peut aider à choisir le parcours ;  l’ouverture du sentier précis doit être vérifiée , certaines sections pouvant fermer. 
+					497 link Description: Parcours officiel côté Ui, Value: english.visitseoul.net/seoul-hiking/Sweeping-views-of-Seoul-Baegundae%E2%80%93-Ui-Gugok-Trail/ENN042345
+					498 text , 
+					499 link Description: informations sur les sentiers et restrictions, Value: english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=204732
+					500 text .
+				501 container
+					502 text Inwangsan  est le meilleur choix pour une demi-journée : moins engageant, très central, et facile à combiner avec le quartier des palais. 
+					503 link Description: Fiche officielle, Value: english.visitseoul.net/nature/Inwangsan%20Mountain/ENP003840
+					504 text .
+				505 container
+					506 text Namsan à Gyeongju  serait ma priorité personnelle pour ton voyage. Tu peux monter depuis Samneung vers Geumobong et revenir par le même chemin pour simplifier l’orientation. L’intérêt est autant dans les sculptures rencontrées que dans le sommet. 
+					507 link Description: Présentation officielle de Namsan, Value: english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=94533
+					508 text , 
+					509 link Description: accès et parcours de Samneung, Value: discoverrealkorea.com/samneung-valley-trail/
+					510 text .
+				511 container
+					512 text Igidae  apporte une ambiance complètement différente : une randonnée côtière, avec transports aux deux extrémités. La ville indique environ 3,95 km et deux heures de marche ; je garderais trois heures pour les pauses. 
+					513 link Description: Parcours officiel de Busan, Value: busan.go.kr/geopark_en/igidae
+					514 text .
+				515 container
+					516 text Je garderais ces randonnées  depuis tes lieux de séjour , les bagages au logement : tu as déjà montagne, patrimoine et côte sans ajouter une étape supplémentaire. Fin octobre et début novembre, pars assez tôt pour redescendre de jour, avec une couche chaude et des chaussures qui accrochent.
+				517 text Pour ajuster Bukhansan : tu es à l’aise avec une journée de 5–7 heures et des passages rocheux raides, ou tu préfères rester sur des randonnées de 2–4 heures ?
+			518 text Les deux me vont. Si dans le séjour entier je peux faire une seule grosse rando et après des petites, ça me va très bien.
+			519 container message-6
+				520 container
+					521 text Parfait : je garderais  une grosse randonnée à Bukhansan , puis  deux ou trois sorties plus courtes , sans ajouter d’étape à ton voyage.
+				522 container
+					523 table
+						524 row
+							525 cell
+								526 text Pendant ton séjour
+							527 cell
+								528 text Randonnée
+							529 cell
+								530 text Temps de marche prévu
+							531 cell
+								532 text Place dans le programme
+						533 row
+							534 cell
+								535 text Séoul, du 21 au 28 octobre
+							536 cell
+								537 text Bukhansan → sommet Baegundae
+							538 cell
+								539 text 5–7 h
+								540 text , approche comprise depuis Bukhansan Ui
+							541 cell
+								542 text Ta grosse randonnée : une journée entière, choisie selon la météo
+						543 row
+							544 cell
+								545 text Gyeongju, le 29 octobre
+							546 cell
+								547 text Namsan depuis Samneung
+							548 cell
+								549 text 2–3 h en version raccourcie
+							550 cell
+								551 text Profiter des vestiges bouddhiques, puis revenir sur tes pas sans obligation de sommet
+						552 row
+							553 cell
+								554 text Busan, entre le 31 octobre et le 2 novembre
+							555 cell
+								556 text Igidae → Oryukdo
+							557 cell
+								558 text 2–3 h
+							559 cell
+								560 text Une demi-journée côtière, avec des escaliers mais sans grosse ascension
+						561 row
+							562 cell
+								563 text Séoul, du 3 au 8 novembre
+							564 cell
+								565 text Inwangsan
+							566 cell
+								567 text 2–3 h
+							568 cell
+								569 text Facultatif, selon ton énergie et tes envies de visites
+					570 button Copy table
+					571 pop up button (collapsed) Description: Expand table, Secondary Actions: Expand
+				572 container
+					573 text Pour  Bukhansan , je laisserais la date flexible dans ton premier séjour : prends la journée sèche avec la meilleure visibilité, idéalement en semaine. Les derniers passages vers Baegundae sont raides et rocheux ; prévois des chaussures qui accrochent, de l’eau, un pique-nique et une couche coupe-vent. Le parcours et son ouverture seront à vérifier avant le départ. 
+					574 link Description: Parcours officiel, Value: english.visitseoul.net/seoul-hiking/Sweeping-views-of-Seoul-Baegundae%E2%80%93-Ui-Gugok-Trail/ENN042345
+					575 text .
+				576 container
+					577 text Garde aussi une journée libre au retour à Séoul  : si la météo empêche Bukhansan en octobre, tu pourras la reporter en novembre à la place d’Inwangsan.
+				578 container
+					579 text À Gyeongju, je privilégierais vraiment  les sculptures et les vestiges de Namsan plutôt que d’atteindre absolument le sommet . Ça conserve une journée agréable pour l’histoire, sans transformer chaque étape en défi sportif. 
+					580 link Description: Namsan — présentation officielle, Value: english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=94533
+					581 text .
+			582 text Ah ouais, salut. Est-ce que pour mes journées à Séoul, tu peux me trouver un hôtel pas trop cher ? Donc pour les six nuits que je vais passer à Séoul, les premières, un hôtel qui soit bien placé, pas loin de tout ce que je veux faire, pas loin du centre historique, tout ça, et des quartiers là où ça bouge, à 15 minutes on va dire ou 20 minutes de transport maximum, et qui soit où je payerais moins, enfin un maximum de 500 dollars canadiens, s'il te plaît, pour tout le séjour des six premières nuits à Séoul.
+			583 button (collapsed) Worked for 4m 36s, Secondary Actions: Expand
+				584 text Worked for 4m 36s
+				585 image
+			586 text <send_user_message_question_reply> [{"questionItemId":"[\"request_user_input_async\",\"call_1JheAGV90bXwFp9XrBWJ4n1Z\",0]","question":"Quelles sont les dates exactes de tes six premières nuits à Séoul ?","answer":"Du 22 au 28 octobre 2026 (arrivée le lendemain du départ)"}] </send_user_message_question_reply>
+			587 container message-10
+				588 container
+					589 text J’ai trouvé une chambre d’hôtel à 490 $ CA pour tes six nuits du 22 au 28 octobre 2026 , mais elle implique quelques compromis. Je n’ai pas trouvé d’offre vérifiée réunissant à la fois ton budget et toutes tes visites à moins de 20 minutes.
+				590 container
+					591 text Les prix ci-dessous sont pour  une personne, six nuits, taxes et frais inclus , affichés au moment de ma recherche.
+				592 container
+					593 table
+						594 row
+							595 cell
+								596 text Hôtel
+							597 cell
+								598 text Total
+							599 cell
+								600 text Chambre et conditions
+							601 cell
+								602 text Mon avis
+						603 row
+							604 cell
+								605 link Description: 8 Hotel — Sindang / Dongdaemun, Value: booking.com/hotel/kr/8hotel.html?checkin=2026-10-22&checkout=2026-10-28&group_adults=1&group_children=0&no_rooms=1&selected_currency=CAD
+							606 cell
+								607 text 490 $ CA
+							608 cell
+								609 text Chambre privée avec salle de bain, 
+								610 text 6 m² annoncés
+								611 text , non remboursable. Note 
+								612 text 6,4/10
+								613 text , 239 avis
+							614 cell
+								615 text Dans ton budget, mais très petit et avis mitigés
+						616 row
+							617 cell
+								618 link Description: Charm Hotel — Ewha / Sinchon, Value: booking.com/hotel/kr/charm-seoul.html?checkin=2026-10-22&checkout=2026-10-28&group_adults=1&group_children=0&no_rooms=1&selected_currency=CAD
+							619 cell
+								620 text 502 $ CA — dépassement de 2 $
+							621 cell
+								622 text Chambre double privée, salle de bain, 
+								623 text 13 m²
+								624 text . Annulation gratuite avant le 19 octobre. Note 
+								625 text 7,3/10
+								626 text , 529 avis
+							627 cell
+								628 text Mon préféré des deux pour le confort et la proximité des sorties
+					629 button Copy table
+					630 pop up button (collapsed) Description: Expand table, Secondary Actions: Expand
+				631 container
+					632 text Le 8 Hotel correspond davantage à ton plafond strict.  Il se trouve près des stations Sindang et Cheonggu. Euljiro est facilement accessible : environ  15–20 minutes au total , selon la marche et l’attente. En revanche, je prévoirais plutôt  25–35 minutes pour les palais  et  35–45 minutes pour Hongdae . Ce sont des estimations, pas des trajets chronométrés. 
+					633 link Description: Emplacement et accès au métro, Value: trivago.com.my/en-MY/oar/8-hotel-seoul?search=100-23590156%3B101-2%3B101-5%3B101-6%3B101-9
+					634 text .
+				635 container
+					636 text Le Charm Hotel offre un meilleur équilibre si les 2 $ supplémentaires sont acceptables.  Situé vers Ewha/Sinchon, il est plus pratique pour Hongdae : compte approximativement  15–20 minutes , mais plutôt  25–35 minutes pour le centre historique . Sa chambre est nettement plus grande et sa réservation plus souple. 
+					637 link Description: Emplacement du Charm Hotel, Value: agoda.com/en-us/charm-hotel/hotel/seoul-kr.html
+					638 text .
+				639 container
+					640 text J’ai également vérifié  Toyoko Inn Dongdaemun No.2 directement : aucune chambre non-fumeur disponible pour les six nuits complètes .
+				641 container
+					642 text À ta place, je privilégierais le Charm Hotel à 502 $ plutôt que le 8 Hotel à 490 $.  Si 500 $ est une limite absolue, le 8 Hotel est une possibilité vérifiée, mais je ne te le présenterais pas comme un coup de cœur. Les montants étant convertis en dollars canadiens, vérifie le total final et les éventuels frais de change de ta carte avant de payer.
+			643 text et si tu cherches vers les quartiers de hondae ou hannamdong ou jongno3ga ou noksatyeong ou insadong
+			644 button (collapsed) Worked for 4m 23s, Secondary Actions: Expand
+				645 text Worked for 4m 23s
+				646 image
+			647 container message-12
+				648 container
+					649 text Oui — parmi ces quartiers, je privilégierais Jongno / Insadong pour toi.  J’ai trouvé des chambres privées sous ton plafond, mais ce sont surtout de petites résidences ou auberges.
+				650 container
+					651 text Tarifs affichés pour  1 personne, du 22 au 28 octobre 2026, six nuits, taxes et frais inclus  :
+				652 container
+					653 table
+						654 row
+							655 cell
+								656 text Hébergement
+							657 cell
+								658 text Emplacement
+							659 cell
+								660 text Total en $ CA
+							661 cell
+								662 text Chambre et compromis
+						663 row
+							664 cell
+								665 link Description: Jonggak Stay, Value: booking.com/hotel/kr/jonggak-stay.html?checkin=2026-10-22&checkout=2026-10-28&group_adults=1&no_rooms=1&selected_currency=CAD
+							666 cell
+								667 text Jonggak, près d’Insadong
+							668 cell
+								669 text 183 $
+								670 text , ou 
+								671 text 164 $ avec tarif membre
+							672 cell
+								673 text Chambre individuelle 
+								674 text réservée aux hommes
+								675 text , douche/WC partagés. 
+								676 text Seulement 3 m² annoncés
+								677 text . Note 
+								678 text 7,3/10
+								679 text , 71 avis. Non remboursable.
+						680 row
+							681 cell
+								682 link Description: Jonggak Soo Residence, Value: booking.com/hotel/kr/su-rejideonseu.html?checkin=2026-10-22&checkout=2026-10-28&group_adults=1&no_rooms=1&selected_currency=CAD
+							683 cell
+								684 text Jonggak, à 
+								685 text 250 m du métro
+								686 text , secteur proche de Jongno 3-ga
+							687 cell
+								688 text 325 $
+							689 cell
+								690 text Chambre individuelle avec 
+								691 text salle de bains privée
+								692 text . Note 
+								693 text 6,7/10
+								694 text , seulement 9 avis ; propreté 
+								695 text 5,6/10
+								696 text . Non remboursable.
+						697 row
+							698 cell
+								699 link Description: Hongdae T Stay, Value: booking.com/hotel/kr/hongdae-th-stay.html?checkin=2026-10-22&checkout=2026-10-28&group_adults=1&no_rooms=1&selected_currency=CAD
+							700 cell
+								701 text Hongdae
+							702 cell
+								703 text 335 $
+							704 cell
+								705 text Chambre individuelle de 
+								706 text 8 m²
+								707 text , 
+								708 text salle de bains privée
+								709 text . Note 
+								710 text 5,8/10
+								711 text , 51 avis ; propreté 
+								712 text 5,6/10
+								713 text . Non remboursable.
+					714 button Copy table
+					715 pop up button (collapsed) Description: Expand table, Secondary Actions: Expand
+				716 container
+					717 text Jonggak Stay est la piste la plus intéressante si tu acceptes le confort très minimaliste d’un goshiwon.  Son adresse, au 68 Sambong-ro, convient bien à Insadong, aux visites historiques et au secteur de LoL Park. Attention à la taille : 3 m², c’est vraiment une chambre pour dormir.
+				718 container
+					719 text Jonggak Soo Residence correspond mieux si ta priorité est d’avoir ta propre salle de bains , mais sa note de propreté m’empêche de te le recommander sans réserve. Hongdae T Stay présente le même problème : bon prix et quartier animé, mais avis faibles.
+				720 text Pour les quartiers que tu proposes :
+				721 content list
+					722 container
+						723 AXListMarker • 
+						724 text Jongno 3-ga / Insadong : mon premier choix  pour combiner histoire, restaurants et sorties dans le centre.
+					725 container
+						726 AXListMarker • 
+						727 text Hongdae : meilleur choix si les soirées passent en premier.  Je ne te garantirais toutefois pas les palais et Insadong en 20 minutes porte à porte.
+					728 container
+						729 AXListMarker • 
+						730 text Hannam-dong / Noksapyeong : je n’ai pas confirmé de chambre privée sous 500 $ pour ces six nuits.  Dans la recherche voisine d’Itaewon, les offres économiques disponibles étaient surtout des dortoirs.
+				731 container
+					732 text Mon conseil : Jonggak Stay pour économiser au maximum ; pour davantage de confort, je garderais plutôt le Charm Hotel à 502 $ évoqué précédemment , si dépasser de 2 $ reste acceptable. Ces prix restent soumis à disponibilité et à la conversion monétaire.
+			733 text et a Myeongdong ?
+			734 button (collapsed) Worked for 57s, Secondary Actions: Expand
+				735 text Worked for 57s
+				736 image
+			737 container message-14
+				738 container
+					739 text Oui, j’ai trouvé une meilleure option près de Myeongdong : 
+					740 link Description: Star Guest House, Value: booking.com/hotel/kr/seutageseuteuhauseu-seoul.html?checkin=2026-10-22&checkout=2026-10-28&group_adults=1&no_rooms=1&selected_currency=CAD
+					741 text .
+				742 container
+					743 text Pour  du 22 au 28 octobre 2026, une personne  :
+				744 container
+					745 table
+						746 row
+							747 cell
+								748 text Critère
+							749 cell
+								750 text Offre vérifiée
+						751 row
+							752 cell
+								753 text Total des six nuits
+							754 cell
+								755 text 409 $ CA, taxes et frais inclus
+								756 text  — environ 68 $/nuit
+						757 row
+							758 cell
+								759 text Chambre
+							760 cell
+								761 text Petite chambre individuelle, lit simple
+						762 row
+							763 cell
+								764 text Salle de bains
+							765 cell
+								766 text Privée
+						767 row
+							768 cell
+								769 text Avis
+							770 cell
+								771 text 7,7/10 sur 205 avis
+								772 text  ; propreté 
+								773 text 7,8/10
+						774 row
+							775 cell
+								776 text Emplacement
+							777 cell
+								778 text Secteur Namdaemun / City Hall, à proximité de Myeongdong
+						779 row
+							780 cell
+								781 text Conditions
+							782 cell
+								783 text Paiement à l’avance ; annulation gratuite 
+								784 text avant le 15 octobre 2026
+								785 text  ; offre partenaire non modifiable
+					786 button Copy table
+					787 pop up button (collapsed) Description: Expand table, Secondary Actions: Expand
+				788 container
+					789 text C’est à la lisière de Myeongdong : la recherche indique  800 m de la station , et des voyageurs mentionnent environ  10 minutes à pied du quartier commerçant . L’adresse est  26-10 Namdaemun-ro 1-gil, au 5ᵉ étage , avec ascenseur annoncé.
+				790 container
+					791 text C’est désormais mon premier choix parmi les options trouvées pour ton budget  : chambre et salle de bains à toi, emplacement central, et avis plus rassurants que Hongdae T Stay ou Jonggak Soo Residence. Le compromis principal reste la petite taille de la chambre.
+				792 text Le tarif est affiché actuellement ; il peut évoluer avant réservation.
+			793 text Alors j'ai réservé dans deux endroits différents. Je commence par le All Stay Hostel pour deux nuits, le 22 et 23 octobre. Et ensuite je passe au Star Guest House, Star Guest House pardon, du 24 au 28. Est-ce que tu peux me faire un, comment dire, une page avec mes différents stays dans le dossier, dans le projet, pour que je puisse voir de façon graphique où est-ce que je reste à chaque fois, s'il te plaît.
+			794 button (collapsed) Worked for 1m 15s, Secondary Actions: Expand
+				795 text Worked for 1m 15s
+				796 image
+			797 container message-16
+				798 container
+					799 text J’ai créé 
+					800 image
+					801 text ta page des hébergements  dans le projet, avec une frise colorée nuit par nuit :
+				802 content list
+					803 container
+						804 AXListMarker • 
+						805 text All Stay Hostel : 22 → 24 octobre , 2 nuits.
+					806 container
+						807 AXListMarker • 
+						808 text Star Guest House : 24 → 28 octobre , 4 nuits.
+				809 text La suite du voyage est indiquée « à confirmer ». L’adresse d’All Stay reste à compléter depuis ta réservation.
+			810 button (collapsed) Edited mes-hebergements-coree.html +16 -0, Secondary Actions: Expand
+				811 image
+				812 text Edited mes-hebergements-coree.html
+				813 text +16
+				814 text -0
+				815 image
+		816 container User messages
+			817 button Jump to user message 1
+			818 button Jump to user message 2
+			819 button Jump to user message 3
+			820 button Jump to user message 4
+			821 button Jump to user message 5
+			822 button Jump to user message 6
+			823 button Jump to user message 7
+			824 button Jump to user message 8
+
+The focused UI element is 1 AXWebArea Planifier un séjour en Corée, URL: chatgpt.com/s/cx_6add0a4c19ac8191a15d8101eaf66946
