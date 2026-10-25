@@ -159,6 +159,17 @@ menuButton.addEventListener('click',()=>{
 document.addEventListener('click',e=>{if(sidebar.classList.contains('menu-open')&&!e.target.closest('.sidebar'))closeMenu()});
 document.addEventListener('keydown',e=>{if(e.key==='Escape'&&sidebar.classList.contains('menu-open')){closeMenu();menuButton.focus()}});
 
+
+/* Aide contextuelle : boîte de dialogue native avec focus géré par le navigateur. */
+const infoTrigger=$('#info-trigger'),infoDialog=$('#info-dialog');
+const infoClose=$('#info-close'),infoDone=$('#info-done');
+infoTrigger.addEventListener('click',()=>{closeMenu();infoDialog.showModal();infoClose.focus();});
+infoClose.addEventListener('click',()=>infoDialog.close());
+infoDone.addEventListener('click',()=>infoDialog.close());
+infoDialog.addEventListener('click',e=>{if(e.target===infoDialog)infoDialog.close();});
+infoDialog.addEventListener('close',()=>infoTrigger.focus());
+infoDialog.querySelectorAll('[data-info-navigate]').forEach(a=>a.addEventListener('click',()=>infoDialog.close()));
+
 function render(){closeMenu();if(location.hash==='#content'){document.getElementById('content').focus();return}let [route,anchor]=location.hash.slice(1).split('/');active=PAGES[route]?route:'voyage';$('#search').value='';$('#search-results').hidden=true;$('#view').hidden=false;$('#page-title').innerHTML=TITLES[active][0];$('#page-description').textContent=TITLES[active][1];$('#breadcrumb').textContent=NAV.find(n=>n[0]===active)[2];$('#navigation').innerHTML=NAV.map(([id,i,t])=>`<a href="#${id}" ${id===active?'class="active" aria-current="page"':''}><b aria-hidden="true">${i}</b>${t}</a>`).join('');$('#view').innerHTML=PAGES[active]();document.title=NAV.find(n=>n[0]===active)[2]+' · Nouguy 2026';if(anchor&&document.getElementById(anchor)){document.getElementById(anchor).scrollIntoView({block:'start'})}else window.scrollTo(0,0)}
 const records=[...PARKS.map(p=>({title:p.name,section:'voiture',text:[p.name,p.jp,p.city,p.region,p.price,p.address,p.note,p.reserve,p.warning].join(' '),park:p})),...HIKES.map(h=>({title:h.name,section:'randonnees',id:h.id,text:Object.values(h).flat().join(' ')})),...HOTELS.map(h=>({title:h.name,section:'tokyo',id:h.id,text:Object.values(h).join(' ')})),...WATCH.map(w=>({title:w.name,section:'worlds',id:w.id,text:Object.values(w).flat(2).join(' ')})),...['coree','hebergements','voiture','pratique','worlds','voyage'].map(k=>({title:NAV.find(n=>n[0]===k)[2],section:k,text:PAGES[k]().replace(/<[^>]*>/g,' ')}))];
 const norm=s=>s.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();
