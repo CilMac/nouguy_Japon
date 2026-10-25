@@ -41,3 +41,57 @@
  #content,.card[id]{scroll-margin-top:82px}
 }
 @media print{.menu-toggle{display:none!important}.trip-now{break-inside:avoid}}
+
+/* Hébergements à Séoul : frise accessible avec codes visuels distincts. */
+.stay-quicklink{display:flex;align-items:center;justify-content:space-between;gap:18px;background:#fff;border:1px solid #cbded7;border-radius:13px;padding:16px 20px;margin:0 0 24px}
+.stay-quicklink>div{display:grid;gap:5px}
+.stay-quicklink strong{font-size:15px}
+.stay-quicklink span{font-size:13px;line-height:1.4;color:var(--muted)}
+.stay-quicklink .button{display:inline-flex;align-items:center;justify-content:center;min-height:44px;white-space:nowrap}
+.stay-intro{display:flex;align-items:center;justify-content:space-between;gap:18px;background:#eaf3ed;border:1px solid #cbded4;border-radius:14px;padding:22px 24px;margin:20px 0}
+.stay-intro h2{font:400 30px Georgia,serif}
+.stay-intro p:not(.eyebrow){color:#435e5e;line-height:1.7;font-size:13px;margin:0;max-width:660px}
+.stay-intro-total{display:grid;place-items:center;border-radius:12px;background:#fff;min-width:96px;padding:13px}
+.stay-intro-total strong{font:400 42px Georgia,serif;line-height:1}
+.stay-intro-total span{color:var(--muted);font-size:11px;text-align:center;margin-top:7px}
+.stay-panel{border:1px solid var(--line);background:white;border-radius:14px;padding:22px 24px}
+.stay-panel h2{font-size:20px;margin-bottom:16px}
+.stay-nights{list-style:none;display:grid;grid-template-columns:repeat(6,minmax(0,1fr));gap:8px;margin:0;padding:0}
+.stay-night{min-width:0;min-height:122px;display:flex;flex-direction:column;justify-content:space-between;gap:8px;border:1px solid transparent;border-radius:9px;padding:12px 10px}
+.stay-night.allstay{background:#e1eff6;border-color:#bdd9e6;color:#22536a}
+.stay-night.star{background:#e0f1e5;border-color:#bedec8;color:#245939}
+.stay-day{font-size:15px;font-weight:800}
+.stay-name{font-size:13px;font-weight:750;line-height:1.35;overflow-wrap:anywhere}
+.stay-night small{font-size:10px;line-height:1.35}
+.stay-legend{display:flex;flex-wrap:wrap;gap:12px 22px;padding:18px 0 3px;font-size:12px;color:var(--muted)}
+.stay-legend>span{display:inline-flex;align-items:center;gap:8px}
+.stay-legend-dot{width:12px;height:12px;display:inline-block;border-radius:3px}
+.stay-legend-dot.allstay{background:#77b0cf}
+.stay-legend-dot.star{background:#70b985}
+.stay-detail-grid .card{border-top:4px solid #a9c6ce}
+.stay-detail-grid .card:nth-child(2){border-top-color:#78b690}
+.stay-range{color:var(--muted);font-size:12px;font-weight:700}
+.stay-future{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px}
+.stay-future-item{background:#fff;border:1px dashed #cfddd7;border-radius:10px;padding:14px;display:flex;flex-direction:column;align-items:flex-start;gap:8px}
+.stay-future-item span{font-size:11px;color:var(--muted)}
+.stay-future-item strong{font-size:16px}
+.stay-future-item small{font-size:12px;line-height:1.5;color:var(--muted);flex:1}
+.stay-future-item a{font-size:12px;font-weight:750;padding:8px 0}
+@media(max-width:1100px){.stay-future{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:760px){
+ .stay-quicklink{flex-wrap:wrap;padding:14px}
+ .stay-quicklink .button{width:100%}
+ .stay-intro{padding:17px;gap:10px;align-items:flex-start}
+ .stay-intro h2{font-size:25px}
+ .stay-intro-total{min-width:72px;padding:9px}
+ .stay-intro-total strong{font-size:32px}
+ .stay-intro-total span{font-size:10px}
+ .stay-panel{padding:16px}
+ .stay-nights{grid-template-columns:repeat(3,minmax(0,1fr));gap:7px}
+ .stay-night{padding:10px 8px;min-height:111px}
+ .stay-name{font-size:12px}
+ .stay-future{grid-template-columns:1fr}
+ .stay-future-item{padding:13px}
+ .stay-future-item a{display:inline-flex;align-items:center;min-height:42px}
+}
+@media print{.stay-intro,.stay-panel,.stay-future-item{break-inside:avoid}}
