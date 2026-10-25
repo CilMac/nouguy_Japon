@@ -28,6 +28,19 @@
 @media(max-width:960px){.map-stage{height:460px;min-height:320px}}
 @media(max-width:580px){.map-stage{height:390px;min-height:340px}}
 @media print{#real-map,#basemap-status{display:none!important}}
+
+/* Cibles tactiles améliorées, sans déplacement des épingles approximatives. */
+.pin .pin-hit{fill:transparent;stroke:none;pointer-events:all}
+@media(max-width:760px){
+ .osm-marker{width:44px;height:44px;font-size:15px}
+ .controls button{width:46px;height:46px}
+ .actions button,.actions a,.location-actions a,nav button{min-height:46px;display:inline-flex;align-items:center;justify-content:center}
+ .pop button{min-width:44px;min-height:44px}
+ .filters input,.filters select{min-height:44px;font-size:16px}
+ .spot .bodyline{font-size:14px}
+ .spot .cityname,.map-hint,.location-guidance{font-size:13px}
+}
+
 </style>
 <link href="https://cdn.jsdelivr.net/npm/maplibre-gl@5.9.0/dist/maplibre-gl.css" rel="stylesheet">
 </head><body>
@@ -66,7 +79,7 @@ function mapLinks(p){const a=info(p);const g=google(p),d=direction(p);
 
 function hideTip(){tip.hidden=true;selected=null}
 function markerColor(id){return id===selected?'on':''}
-function drawMarkers(){const s=pix(1);let m='',labels='';for(const p of filtered()){const v=xy(p.lon,p.lat);m+=`<g class="pin ${markerColor(p.num)}" data-num="${p.num}" role="button" tabindex="0" transform="translate(${v.x} ${v.y}) scale(${s})" aria-label="${esc(p.name)}"><circle r="13"/><text>${p.num}</text><title>${esc(p.name)} — ${esc(p.price)}</title></g>`}for(const [name,lon,lat,r] of CITIES){if(r!==region)continue;const v=xy(lon,lat);labels+=`<text class="city" transform="translate(${v.x+pix(14)} ${v.y-pix(9)}) scale(${s})">${esc(name)}</text>`}$('pins').innerHTML=m;$('cities').innerHTML=labels;for(const n of $('pins').querySelectorAll('[data-num]')){n.addEventListener('click',()=>choose(+n.dataset.num));n.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();choose(+n.dataset.num)}})}}
+function drawMarkers(){const s=pix(1);let m='',labels='';for(const p of filtered()){const v=xy(p.lon,p.lat);m+=`<g class="pin ${markerColor(p.num)}" data-num="${p.num}" role="button" tabindex="0" transform="translate(${v.x} ${v.y}) scale(${s})" aria-label="${esc(p.name)}"><circle class="pin-hit" r="23"/><circle r="13"/><text>${p.num}</text><title>${esc(p.name)} — ${esc(p.price)}</title></g>`}for(const [name,lon,lat,r] of CITIES){if(r!==region)continue;const v=xy(lon,lat);labels+=`<text class="city" transform="translate(${v.x+pix(14)} ${v.y-pix(9)}) scale(${s})">${esc(name)}</text>`}$('pins').innerHTML=m;$('cities').innerHTML=labels;for(const n of $('pins').querySelectorAll('[data-num]')){n.addEventListener('click',()=>choose(+n.dataset.num));n.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();choose(+n.dataset.num)}})}}
 function showTip(p){tip.hidden=false;tip.innerHTML=`<button aria-label="Fermer la fiche">×</button><strong>${esc(p.name)}</strong>${esc(p.city)}<span>${esc(p.price)}</span>${info(p).verified?`<a target="_blank" rel="noopener" href="${google(p)}">📍 Ouvrir l’adresse ↗</a>`:`<small>⚠️ Position à confirmer sur la fiche source</small>`}`;tip.querySelector('button').onclick=()=>{hideTip();drawMarkers()}}
 function choose(num){const p=PLACES.find(x=>x.region===region&&x.num===num);if(!p)return;selected=num;const v=xy(p.lon,p.lat);if(view.w>1900){view.w=1900;view.h=view.w/aspect}view.cx=v.x;view.cy=v.y;setView();showTip(p);document.querySelectorAll('.spot').forEach(s=>s.classList.toggle('on',+s.dataset.num===num));if(innerWidth<960)$('map').scrollIntoView({behavior:'smooth',block:'center'})}
 function render(){const list=filtered();$('nav').innerHTML=REGIONS.map(([r,n])=>`<button type="button" class="${r===region?'active':''}" data-reg="${r}">${r} · ${n}</button>`).join('');$('nav').querySelectorAll('button').forEach(b=>b.onclick=()=>{region=b.dataset.reg;$('search').value='';selected=null;render();fit()});$('count').textContent=list.length+' emplacement'+(list.length>1?'s':'')+' sur cette carte';$('heading').textContent='Tous les prix — '+region;$('tablebody').innerHTML=PLACES.filter(p=>p.region===region).map(p=>`<tr><td>${p.num} · ${esc(p.name)}</td><td>${esc(p.price)}</td><td>${esc(p.note)}</td><td>${esc(p.reserve)}</td></tr>`).join('');$('cards').innerHTML=list.map(p=>`<article class="spot ${p.num===selected?'on':''}" data-num="${p.num}"><div class="top"><span class="num">${p.num}</span><div><h3>${esc(p.name)}</h3><div class="cityname">${esc(p.city)}</div></div></div><div class="price">${esc(p.price)}</div><p class="bodyline"><strong>Équipements / suppléments :</strong> ${esc(p.note)}</p><p class="bodyline"><strong>Réservation / saison :</strong> ${esc(p.reserve)}</p>${mapLinks(p)}<div class="actions"><button type="button" data-go="${p.num}">Voir sur notre carte (repère approximatif)</button><a href="${esc(p.source)}" target="_blank" rel="noopener">Fiche officielle ↗</a></div></article>`).join('');document.querySelectorAll('button[data-go]').forEach(b=>b.onclick=()=>choose(+b.dataset.go));drawMarkers()}
