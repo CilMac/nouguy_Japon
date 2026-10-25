@@ -5,3 +5,39 @@
 @media print{.sidebar,.topbar,.search-wrap,.save,.toolbar,footer{display:none}.app{margin:0}main{max-width:none;padding:0}.card{break-inside:avoid}.hero{color:var(--ink);background:white}.hero p,.hero a{color:var(--ink)}details>ol{display:block}}
 
 .hero>a:not(.button){color:#d9eee6}.hero>a:not(.button):hover{color:#fff}.card[id]{scroll-margin-top:24px}
+
+/* Navigation Android et repères contextuels : contenus historiques inchangés. */
+.menu-toggle{display:none;align-items:center;justify-content:center;gap:8px;min-height:46px;padding:8px 13px;border-radius:9px;border:1px solid var(--line);background:#fff;color:var(--petrol);font-size:14px;font-weight:750}
+.menu-toggle span:first-child{font-size:19px}
+.trip-now{border:1px solid #cfe0dc;background:#f9fcfa;border-radius:15px;padding:22px;margin:0 0 26px}
+.trip-now-header{display:flex;align-items:start;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.trip-now-header .eyebrow{margin-bottom:7px}.trip-now-header h2{margin:0}
+.trip-date{font-size:12px;color:var(--muted);font-weight:650}
+.trip-now-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin-top:15px}
+.trip-now-item{border:1px solid var(--line);background:#fff;border-radius:11px;padding:16px;min-width:0}
+.trip-now-item h3{font-size:17px;line-height:1.4;margin:7px 0 10px}
+.trip-now-item p{font-size:13px;color:var(--muted);line-height:1.65}
+.trip-now-item a{display:inline-flex;align-items:center;min-height:40px;margin-top:6px;font-size:13px;font-weight:700}
+@media(max-width:1100px){.trip-now-grid{grid-template-columns:1fr}}
+@media(max-width:760px){
+ .sidebar{position:sticky;top:0;z-index:50;display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;padding:10px 16px;gap:8px;background:#fff}
+ .sidebar .brand{min-width:0}
+ .sidebar .brandmark{width:38px;height:38px;flex:none}
+ .menu-toggle{display:inline-flex}
+ .sidebar nav{display:none;grid-column:1/-1;max-height:67dvh;overflow-y:auto;overscroll-behavior:contain;gap:2px;margin:5px -16px -10px;padding:8px 16px 14px;background:#fff;border-top:1px solid var(--line);box-shadow:0 8px 16px #173e4815}
+ .sidebar.menu-open nav{display:grid}
+ .sidebar nav a{display:flex;align-items:center;min-height:46px;padding:10px 13px;font-size:14px}
+ .sidebar nav a b{display:inline-block}
+ .card p,.card li{font-size:14px}
+ .card .muted,.muted,.source-note{font-size:13px}
+ .toolbar button,.toolbar select,.button,.save{min-height:44px}
+ .save{width:44px;height:44px;font-size:20px}
+ .search-wrap{min-height:48px}
+ .search-wrap input{font-size:16px}
+ .trip-now{padding:16px}
+ .trip-now-grid{grid-template-columns:1fr}
+ .trip-now-item{padding:14px}
+ .trip-now-item a{min-height:44px}
+ #content,.card[id]{scroll-margin-top:82px}
+}
+@media print{.menu-toggle{display:none!important}.trip-now{break-inside:avoid}}
