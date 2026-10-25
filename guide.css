@@ -95,3 +95,23 @@
  .stay-future-item a{display:inline-flex;align-items:center;min-height:42px}
 }
 @media print{.stay-intro,.stay-panel,.stay-future-item{break-inside:avoid}}
+
+/* Favoris partagés entre le guide et la carte, export/import local. */
+.park-shortcard .card-top{align-items:center}
+.park-shortcard .park-price{font-size:19px;font-weight:750;color:var(--petrol)}
+.park-shortcard .park-price small{font-size:11px;font-weight:400;color:var(--muted)}
+.park-shortcard .park-warning{color:#863f22;background:#fff3e9;border:1px solid #f0cbb9;border-radius:7px;padding:9px 11px;font-weight:700}
+.favorites-summary{display:flex;justify-content:space-between;align-items:center;gap:14px;flex-wrap:wrap;margin:5px 0 23px}
+.favorites-summary h2{margin-bottom:5px}
+.favorites-summary p{margin:0;font-size:13px;line-height:1.5;color:var(--muted)}
+.favorites-summary .button{min-height:44px;display:inline-flex;align-items:center}
+.backup-panel{margin:26px 0 12px;padding:23px;background:#fff;border:1px solid var(--line);border-radius:14px}
+.backup-panel p{font-size:13px;line-height:1.7;color:var(--muted)}
+.backup-actions{display:flex;gap:12px;flex-wrap:wrap;margin:15px 0}
+.backup-actions .button,.backup-import-label{min-height:46px;display:inline-flex;align-items:center;justify-content:center;padding:10px 16px;font-weight:700;font-size:13px;border-radius:8px;cursor:pointer}
+.backup-actions .button{border:1px solid var(--petrol)}
+.backup-import-label{border:1px solid #86adb2;background:#eef6f4;color:var(--petrol)}
+.visually-hidden{position:absolute!important;width:1px;height:1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.backup-import-label:focus-within{outline:3px solid #bf8835}
+#search-results .park-shortcard{margin-bottom:12px}
+@media(max-width:760px){.backup-panel{padding:17px}.backup-actions>*{width:100%}}
